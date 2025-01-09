@@ -1,0 +1,14 @@
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\bin\Debug\net8.0\Assignment3.exe
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\bin\Debug\net8.0\Assignment3.deps.json
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\bin\Debug\net8.0\Assignment3.dll
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\bin\Debug\net8.0\Assignment3.pdb
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\Assignment3.dll
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\refint\Assignment3.dll
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\Assignment3.pdb
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+D:\3187-Hardik.K-24-Dotnet\DotnetCore\Day5\Assignments\Assignment3\obj\Debug\net8.0\ref\Assignment3.dll
