@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Radixweb\\Task-Scheduling-System\\Assignment3.csproj",
-      "projectName": "Assignment3",
-      "projectPath": "D:\\Workspace\\Radixweb\\Task-Scheduling-System\\Assignment3.csproj",
+      "projectUniqueName": "D:\\Workspace\\Radixweb\\Task-Scheduling-System\\task-scheduling-system.csproj",
+      "projectName": "task-scheduling-system",
+      "projectPath": "D:\\Workspace\\Radixweb\\Task-Scheduling-System\\task-scheduling-system.csproj",
       "packagesPath": "C:\\Users\\Hardiks-ZenBook\\.nuget\\packages\\",
       "outputPath": "D:\\Workspace\\Radixweb\\Task-Scheduling-System\\obj\\",
       "projectStyle": "PackageReference",
